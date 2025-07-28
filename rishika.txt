@@ -1,0 +1,1 @@
+my name is rishika and earlier file was empty. Logically its first time writing in file
